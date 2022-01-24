@@ -4,4 +4,4 @@ A) Quantas pessoas foram cadastradas.
 B) Uma listagem com as pessoas mais pesadas.
 C) Uma listagem com as pessoas mais leves.
 
---> utilizei
+--> utilizei "while True" "if" "else" "break" "for" <--
